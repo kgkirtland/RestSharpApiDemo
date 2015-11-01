@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{1F46A08C-179C-4BC4-8652-4212A4581E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RespositoryTests", "RespositoryTests\RespositoryTests.csproj", "{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpApiDemo", "RestSharpApiDemo\RestSharpApiDemo.csproj", "{592F0C05-A89F-4B18-9C91-C01FF4FD1BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F46A08C-179C-4BC4-8652-4212A4581E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F46A08C-179C-4BC4-8652-4212A4581E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F46A08C-179C-4BC4-8652-4212A4581E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F46A08C-179C-4BC4-8652-4212A4581E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592F0C05-A89F-4B18-9C91-C01FF4FD1BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592F0C05-A89F-4B18-9C91-C01FF4FD1BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592F0C05-A89F-4B18-9C91-C01FF4FD1BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592F0C05-A89F-4B18-9C91-C01FF4FD1BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
