@@ -8,7 +8,7 @@ namespace RestSharpApiDemo
 {
     public class Config : IConfig
     {
-        private const string baseUrl = "http://kkirtland.pythonanywhere.com";
+        private const string baseUrl = "http://testurl"; // change this url to REST service
 
         public string GetBaseUrl()
         {
